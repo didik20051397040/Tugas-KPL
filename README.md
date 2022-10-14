@@ -4,10 +4,10 @@
 ## Cara install
 
 - `git clone https://github.com/didik20051397040/Tugas-KPL.git`
-- `cd laravel-vue-crud-starter/`
+- `cd Tugas-KPL`
 - `composer install`
 - `cp .env.example .env`
-- Update `.env` and set your database credentials
+- Ubah file env.example -> env dan buat database kpltugas
 - `php artisan key:generate`
 - `php artisan migrate`
 - `php artisan db:seed`
