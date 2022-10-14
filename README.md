@@ -3,7 +3,7 @@
 
 ## Cara install
 
-- `git clone https://github.com/AnowarCST/laravel-vue-crud-starter.git`
+- `git clone https://github.com/didik20051397040/Tugas-KPL.git`
 - `cd laravel-vue-crud-starter/`
 - `composer install`
 - `cp .env.example .env`
